@@ -4,7 +4,10 @@ npm install -g @angular/cli@next
 npm version 
     https://stackoverflow.com/questions/58032631/why-powershell-does-not-run-angular-commands
 ng new angular-httpclient-example
-ng server
+ng serve
+
+$ cd ~/angular-httpclient-example
+$ ng generate component home
 
 
 NPM fake server
