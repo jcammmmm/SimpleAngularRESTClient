@@ -9,6 +9,7 @@ ng serve
 $ cd ~/angular-httpclient-example
 $ ng generate component home
 
+$ ng generate component about
 
 NPM fake server
 /--------------------------------/
