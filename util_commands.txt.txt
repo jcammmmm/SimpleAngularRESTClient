@@ -1,0 +1,25 @@
+/--------------------------------/
+npm install -g @angular/cli@next
+npm version 
+    https://stackoverflow.com/questions/58032631/why-powershell-does-not-run-angular-commands
+ng new angular-httpclient-example
+ng server
+
+
+/--------------------------------/
+$ cd ~/angular-httpclient-example
+$ npm install --save json-server
+
+$ mkdir server
+$ cd server
+
+$ cd ..
+$ npm install faker --save
+
+
+
+/-------------------------------/
+SHOW DATABASES
+USE PEOPLE
+SHOW TABLES
+
