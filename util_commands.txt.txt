@@ -9,7 +9,10 @@ ng serve
 $ cd ~/angular-httpclient-example
 $ ng generate component home
 $ ng generate component about
+
 $ ng add @angular/material
+
+$ ng generate service data
 
 NPM fake server
 /--------------------------------/
