@@ -1,3 +1,4 @@
+ANGULAR
 /--------------------------------/
 npm install -g @angular/cli@next
 npm version 
@@ -6,6 +7,7 @@ ng new angular-httpclient-example
 ng server
 
 
+NPM fake server
 /--------------------------------/
 $ cd ~/angular-httpclient-example
 $ npm install --save json-server
@@ -16,8 +18,11 @@ $ cd server
 $ cd ..
 $ npm install faker --save
 
+$ npm run generate
+$ npm run server
 
 
+DB
 /-------------------------------/
 SHOW DATABASES
 USE PEOPLE
